@@ -1,6 +1,6 @@
 # Lab8_Starter
 
-## Names of lab partner(s)
+## Names 
 
 Binteng Tan
 
